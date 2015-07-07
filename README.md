@@ -4,6 +4,6 @@ Jeu Snake réalisé sur 3 librairies graphiques différentes. Celles-ci sont loa
 
 SFML
 
-SDL
+Allegro
 
 Ncurses - Termcaps
